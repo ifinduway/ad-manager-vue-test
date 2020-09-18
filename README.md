@@ -1,4 +1,4 @@
-# my-app
+# тестовый spa vue + firebase
 
 ## Project setup
 ```
